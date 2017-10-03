@@ -1,0 +1,15 @@
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\PE-ts.deps.json
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\PE-ts.runtimeconfig.json
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\PE-ts.runtimeconfig.dev.json
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\PE-ts.dll
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\PE-ts.pdb
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\C#PE1.dll
+C:\C#\C#PE\PE-ts\bin\Debug\netcoreapp2.0\C#PE1.pdb
+C:\C#\C#PE\PE-ts\obj\Debug\netcoreapp2.0\PE-ts.csproj.CoreCompileInputs.cache
+C:\C#\C#PE\PE-ts\obj\Debug\netcoreapp2.0\PE-ts.AssemblyInfoInputs.cache
+C:\C#\C#PE\PE-ts\obj\Debug\netcoreapp2.0\PE-ts.AssemblyInfo.cs
+C:\C#\C#PE\PE-ts\obj\Debug\netcoreapp2.0\PE-ts.dll
+C:\C#\C#PE\PE-ts\obj\Debug\netcoreapp2.0\PE-ts.pdb
